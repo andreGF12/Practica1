@@ -5,5 +5,6 @@
         $suma += $numero;
     }
     
-    echo "La Suma es: $suma";
+    echo nl2br("La Suma es: \n"); 
+    echo "$suma";
 ?>
