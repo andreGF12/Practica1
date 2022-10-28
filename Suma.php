@@ -5,5 +5,5 @@
         $suma += $numero;
     }
     
-    echo "Suma: $suma";
+    echo "La Suma: $suma";
 ?>
